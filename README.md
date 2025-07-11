@@ -1,7 +1,5 @@
-# WebGIS_Project-Deploy_on_AWS-EC2-
-A simple Web GIS ( Leaflet ) project deployment on AWS ( ec2 )
-
 # Web GIS Project Deployment Guide
+
 This guide explains how to deploy the Web GIS project on an Amazon Linux EC2 instance using Apache (httpd) and a static (Elastic) IP.
 
 ## Prerequisites
